@@ -32,10 +32,10 @@ was superseded by Geometric Brownian motion in
 the 1960s. i.e. the normal distribution was replaced by the log-normal and
 offset returns by linear returns. The market crash
 of 1998 caused the latter model to be questioned. This paper extends the model
-to affine returns, matching the average behaviour seen on the S\&P 500
+to affine returns, matching the average behaviour seen on the S&P 500
 to calculations from averages of the daily ups and downs along with their
 probabilities. i.e. expected behaviour to noise.
-Affine returns lead to a mixture distribution consisting of two components ---
+Affine returns lead to a mixture distribution consisting of two components -
 the log-normal distribution and one other which looks like the logit-normal
 distribution scaled from [0, 1] to some other finite support.
 For the shrinking case it was shown that the distribution was not
