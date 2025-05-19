@@ -37,7 +37,7 @@ to calculations from averages of the daily ups and downs along with their
 probabilities. i.e. expected behaviour to noise.
 Affine returns lead to a mixture distribution consisting of two components ---
 the log-normal distribution and one other which looks like the logit-normal
-distribution scaled from \( \left[0, 1 \right] \) to some other finite support.
+distribution scaled from [0, 1] to some other finite support.
 For the shrinking case it was shown that the distribution was not
 parameterisable.
 </details>
