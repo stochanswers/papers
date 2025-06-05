@@ -20,7 +20,7 @@ the moments and underlying mean and standard deviation are then used to create
 a stochastic differential equation model.
 </details>
 
-## Finance
+## Affine returns
 
 [Affine returns on Bernoulli trials in finance](./affine.pdf)
 
@@ -40,5 +40,35 @@ the log-normal distribution and one other which looks like the logit-normal
 distribution scaled from [0, 1] to some other finite support.
 For the shrinking case it was shown that the distribution was not
 parameterisable.
+</details>
+
+[The affine growth of NBA players and other adults](./nba_heights.pdf)
+
+<details>
+<summary>Abstract</summary>
+The heights of NBA players form a skewed distribution rather than follow the
+normal distribution as the textbooks suggest. There has long been disquiet
+around whether the normal is the appropriate distribution with some authors
+using the log-normal instead. For Bernoulli trials offset returns are
+approximated by the normal distribution, linear returns by the log-normal and
+it has been recently shown affine returns may be approximated by an
+appropriately scaled logit-normal distribution.
+A good fit for the heights of the NBA players is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search. Fitting adult heights of the general population
+is also undertaken.
+</details>
+
+[The affine growth of river heights](./river_heights.pdf)
+
+<details>
+<summary>Abstract</summary>
+River heights form a skewed distribution which is variously fit by the
+log-normal, Gamma, Generalized Extreme Value, Weibull and Pareto distributions.
+For Bernoulli trials it has been recently shown affine returns may be
+approximated by an appropriately scaled logit-normal distribution.
+A good fit for some of the river heights is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search.
 </details>
 
