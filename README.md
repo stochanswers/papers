@@ -84,3 +84,17 @@ A reasonable fit for some of the hurricane strengths is performed by this latter
 distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
+
+
+[The affine growth of wave heights](./waves.pdf)
+
+<details>
+<summary>Abstract</summary>
+Wave heights in oceanography are modelled using the Rayleigh, Weibull,
+Generalized Gamma and log-normal distributions.
+For Bernoulli trials it has been recently shown affine returns may be
+approximated by an appropriately scaled logit-normal distribution.
+A good fit for some of the river heights is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search.
+</details>
