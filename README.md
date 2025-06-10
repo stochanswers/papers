@@ -72,3 +72,15 @@ distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
 
+[The affine growth of hurricane speeds](./hurricanes.pdf)
+
+<details>
+<summary>Abstract</summary>
+Hurricane strengths form a skewed distribution which is variously fit by the
+Weibull or log-normal distributions.
+For Bernoulli trials it has been recently shown affine returns may be
+approximated by an appropriately scaled logit-normal distribution.
+A reasonable fit for some of the hurricane strengths is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search.
+</details>
