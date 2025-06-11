@@ -98,3 +98,17 @@ A good fit for some of the river heights is performed by this latter
 distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
+
+[The affine growth of wealth](./wealth.pdf)
+
+<details>
+<summary>Abstract</summary>
+Economists fit both the log-normal and Pareto distributions to wealth depending
+on whether they are on the right tail or not.
+For Bernoulli trials it has been recently shown affine returns may be
+approximated by an appropriately scaled logit-normal distribution.
+A good fit for some of the wealth statistics is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search.
+</details>
+
