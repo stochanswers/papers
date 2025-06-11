@@ -112,3 +112,16 @@ distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
 
+
+[The affine growth of insurance premiums](./insurance.pdf)
+
+<details>
+<summary>Abstract</summary>
+Insurance premiums are modelled using the log-normal, Pareto, Gamma and Weibull
+distributions.
+For Bernoulli trials it has been recently shown affine returns may be
+approximated by an appropriately scaled logit-normal distribution.
+A good fit for some of the premiums is performed by this latter
+distribution whose parameters are derived using a mixture of Maximum Likelihood
+Estimation and a grid search.
+</details>
