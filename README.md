@@ -20,6 +20,8 @@ the moments and underlying mean and standard deviation are then used to create
 a stochastic differential equation model.
 </details>
 
+[A teachers guide to the modelling of epidemics](./epiteach.pdf)
+
 ## Affine returns
 
 [Affine returns on Bernoulli trials in finance](./affine.pdf)
