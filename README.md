@@ -127,3 +127,21 @@ A good fit for some of the premiums is performed by this latter
 distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
+
+## Democracy
+
+[Rebalancing First Past The Post voting](./fptp.pdf)
+
+<details>
+<summary>Abstract</summary>
+The results of the UK General Election of 2024 resulted in the Labour party
+gaining 63% of the seats with only 34% of the vote leading to calls for
+electoral reform.
+The First Past The Post (FPTP) voting system that delivered this result has
+been in use since the Middle Ages and was challenged by referendum in 2011 when
+it beat the Alternative Vote system by 68% to 32%.
+This paper presents a variation on FPTP in which only the seats with the
+largest votes are awarded to what would have been the winning party up to the
+level of their vote share. The remaining seats are then divided based on how
+many spare votes there are in neighbouring seats.
+</details>
