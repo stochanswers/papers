@@ -128,6 +128,17 @@ distribution whose parameters are derived using a mixture of Maximum Likelihood
 Estimation and a grid search.
 </details>
 
+## Turbulence
+
+[A discrete stochastic model of turbulence](./decay.pdf)
+
+<details>
+<summary>Abstract</summary>
+Direct Numerical Simulation of the decay of isotropic turbulence was
+performed using a discrete stochastic model adapted from Molecular Dynamics.
+Although resulting in the expected power law the resulting exponent was extreme.
+</details>
+
 ## Democracy
 
 [Rebalancing First Past The Post voting](./fptp.pdf)
