@@ -139,6 +139,16 @@ performed using a discrete stochastic model adapted from Molecular Dynamics.
 Although resulting in the expected power law the resulting exponent was extreme.
 </details>
 
+[Wall functions and Reynolds stress models](./wallrsm.pdf)
+
+<details>
+<summary>Abstract</summary>
+The Reynolds stress models of Launder, Reece and Rodi and of Speziale, Sarkar
+and Gatski are analysed in the context of proportional wall functions for the
+individual Reynolds stresses. The analysis shows an inconsistency between the
+models and the wall functions. i.e. Both cannot be true.
+</details>
+
 ## Democracy
 
 [Rebalancing First Past The Post voting](./fptp.pdf)
