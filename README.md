@@ -149,6 +149,24 @@ individual Reynolds stresses. The analysis shows an inconsistency between the
 models and the wall functions. i.e. Both cannot be true.
 </details>
 
+[The modelling of axisymmetric turbulence](./rsm.pdf)
+
+<details>
+<summary>Abstract</summary>
+The solution space for anisotropic turbulence is bounded on two sides by what
+is known as axisymmetric turbulence.
+It is shown that, for such turbulence, a basis needs only two terms -
+the Kronecker delta and the anisotropy tensor since the square of the latter is a
+linear combination of the other two.
+This type of turbulence also has a fixed
+relationship between the second and third invariants of the anisotropy tensor
+which can be simplified to derive a constraint equation for one-dimensional shear
+flows.
+The subsequent derivation of a model which satisfies this constraint equation is only
+partially successful but raises multiple issues with the Reynolds stress models
+shipped with commercial software and with some instances of DNS data.
+</details>
+
 ## Democracy
 
 [Rebalancing First Past The Post voting](./fptp.pdf)
