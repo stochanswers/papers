@@ -167,6 +167,21 @@ partially successful but raises multiple issues with the Reynolds stress models
 shipped with commercial software and with some instances of DNS data.
 </details>
 
+## Probability theory
+
+[A Quartic Exponential approximation to the Hypergeometric distribution](./quartic.pdf)
+
+<details>
+<summary>Abstract</summary>
+The Hypergeometric distribution is a, potentially, asymmetric distribution that,
+at scale, is typically approximated by the Normal distribution. Numerical
+differentiation shows that the Quartic Exponential distribution can account for
+the asymmetry. Such a distribution was constructed using the Stirling
+approximation, however testing showed that this only approximated the 
+corresponding Hypergeometric distribution to about the same extent as a Normal
+distribution.
+</details>
+
 ## Democracy
 
 [Rebalancing First Past The Post voting](./fptp.pdf)
