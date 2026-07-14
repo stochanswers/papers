@@ -2,22 +2,23 @@
 
 ## Epidemiology
 
-[The minimal SIR model, validated then extended to social networks and stochastic differential equations](https://osf.io/preprints/osf/y6ckv_v1)
+[The minimal SIR model, validated then extended to social networks and stochastic differential equations](./minimal.pdf)
 
 <details>
 <summary>Abstract</summary>
-A discrete stochastic process which closely follows the mantra repeated during
-Covid-19 about how epidemics grow is presented as a childs game of cards.
+A discrete stochastic process which roughly follows the mantra of exponential
+growth that was repeated <i>ad nauseam</i> during
+Covid-19 is presented firstly as a child's game of tag and then as
+a game of cards.
 When the results of multiple games are averaged the resulting difference
 equations match the differential equations of the
 standard SIR model and thus this minimal model is validated.
 Extending to an animal social network formed by voles allows comparison of
 results with those of the complete graph of the basic game.
-This allows questions to be asked about flattening the curve and seasonality.
-A discrete probability distribution for the ratio of growth to exponential growth
-is derived and seen to scale to the logit-normal distribution. Correlations for
-the moments and underlying mean and standard deviation are then used to create
-a stochastic differential equation model.
+This informs the understanding of flattening the curve and of seasonality.
+The discrete probability distribution is identified as the Hypergeometric
+which, lacking a continuous analogue, leads to a discussion of the limits of
+stochastic differential equation models.
 </details>
 
 [A teachers guide to the modelling of epidemics](./epiteach.pdf)
