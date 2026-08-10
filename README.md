@@ -183,6 +183,26 @@ corresponding Hypergeometric distribution to about the same extent as a Normal
 distribution.
 </details>
 
+## Traffic modelling
+
+[Agent-based modelling of road traffic congestion at scale](./traffic.pdf)
+
+<details>
+<summary>Abstract</summary>
+Three different Agent-based models of traffic flow were evaluated:
+Nagel-Schreckenberg, constant speed and a multinomial distribution.
+They were all implemented on an analogue computer. i.e. a Monopoly board.
+
+Subsequent digital computer simulations performed at scale produced data that
+was analysed.
+The fundamental diagram for Nagel-Schreckenberg did not appear to relate to
+real world data whereas the constant speed model matches that of Daganzo.
+The multinomial model resulted in a smoothed version of the fundamental diagram
+for constant speed and, due to congestion, the local speeds had a truncated
+Quartic Exponential distribution. Distributions for local densities and momenta
+were not categorised.
+</details>
+
 ## Democracy
 
 [Rebalancing First Past The Post voting](./fptp.pdf)
