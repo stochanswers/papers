@@ -2,23 +2,11 @@
 
 ## Epidemiology
 
-[The minimal SIR model](./minimal.pdf)
+[Epidemic modelling for children](https://zenodo.org/records/23120076)
 
 <details>
 <summary>Abstract</summary>
-The Malthusian pseudo-science that was debunked by Darwin is further countered by a
-minimal epidemic model consisting of just two rules.
-Basic probability theory shows that this agent-based model averages to the
-standard SIR model.
-The model is extended to social networks allowing comparison with the basic
-complete graph model.
-This shows that flattening the curve also extends it and reduces the number of
-individuals who acquire immunity.
-A number of models which this model supplants are discussed with the reasons
-why.
-Most of the work is accessible to school children and its recent relevance to
-their lives may actually motivate them to extend their Mathematical ability as
-well as their critical thinking.
+The dynamics of epidemics are poorly understood with, typically, the general population parroting the exponential growth model of Malthus that was debunked by Darwin. Statistical modelling by Farr had already shown that was not the case for epidemics, the subsequent ordinary differential equations of the standard SIR model of Kermack & McKendrick made that explicit. There are stochastic extensions to that latter model, there are also other stochastic models with different average reproduction rates which haven't supplanted the standard model. All these models, quantitative and qualitative, require somewhat more Mathematical ability than that required by the model of Malthus. Here we show that a game of tag, an agent-based model, averages to the standard model corrected to meet the definition of the basic reproduction rate by using basic probability theory. This model is easily explainable to children and can also be viewed as a game of cards. It also supplants numerous stochastic models that cannot match its reproduction rate. Apart from being stochastic it is trivially extensible to animal social networks where a comparison can be made to flattening the curve. The use of sparse graphs also allows for modelling the geographic spread of an epidemic.
 </details>
 
 [A teachers guide to the modelling of epidemics](./epiteach.pdf)
